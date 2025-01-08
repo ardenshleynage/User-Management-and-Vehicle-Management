@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Modifications"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel1" alignment="0" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel3" min="-2" pref="291" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                          <Component id="jButton2" pref="83" max="32767" attributes="0"/>
+                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="100" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="1" attributes="0">
+                          <EmptySpace max="32767" attributes="0"/>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="f_name" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="l_name" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="mail" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="usr_name" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="passwd" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="149" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Component id="jPanel3" alignment="0" pref="450" max="32767" attributes="0"/>
+              <Group type="102" alignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                          <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <EmptySpace max="-2" attributes="0"/>
+                          <Component id="jButton2" min="-2" pref="37" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <EmptySpace min="-2" pref="75" max="-2" attributes="0"/>
+                  <Component id="l_name" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="f_name" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="usr_name" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="mail" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                  <Component id="passwd" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="33" red="ff" type="rgb"/>
+            </Property>
+            <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+              <Dimension value="[412, 100]"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel1" min="-2" pref="524" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="0" pref="50" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                  <Image iconType="3" name="/java_swing/Parking_Project/src/org/images/back_lg.png"/>
+                </Property>
+                <Property name="text" type="java.lang.String" value="jLabel1"/>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="36" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xc9;l&#xe9;ment &#xe0; modfier"/>
+            <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+              <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                <MatteColorBorder bottom="3" left="0" right="0" top="0"/>
+              </Border>
+            </Property>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="l_name">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="1- Nom : "/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="l_name.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Update_Lname_Clients UpdateLnameFrame = new Update_Lname_Clients(lname, fname, username, email, id, password, welcomeMessage);&#xa;        UpdateLnameFrame.setLocationRelativeTo(null);&#xa;        UpdateLnameFrame.setVisible(true);&#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        l_name.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;l_name.setForeground(new java.awt.Color(255, 51, 51));&#xa;&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        l_name.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;l_name.setForeground(new java.awt.Color(0, 0, 0));&#xa;&#xa;&#xa;    }&#xa;});"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="f_name">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="2- Pr&#xe9;nom : "/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="f_name.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Update_Fname_Clients UpdateFnameFrame = new Update_Fname_Clients(lname, fname, username, email, id, password, welcomeMessage);&#xa;        UpdateFnameFrame.setLocationRelativeTo(null);&#xa;        UpdateFnameFrame.setVisible(true);&#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        f_name.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;        f_name.setForeground(new java.awt.Color(255, 51, 51));&#xa;&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        f_name.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;        f_name.setForeground(new java.awt.Color(0, 0, 0));&#xa;&#xa;&#xa;    }&#xa;});"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="passwd">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="5- R&#xe9;initialiser le mot de passe "/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="passwd.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Update_Password_Clients UpdatePasswordFrame = new Update_Password_Clients(lname, fname, username, email, id, password, welcomeMessage);&#xa;        UpdatePasswordFrame.setLocationRelativeTo(null);&#xa;        UpdatePasswordFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        passwd.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;passwd.setForeground(new java.awt.Color(255, 51, 51));&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        passwd.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;passwd.setForeground(new java.awt.Color(0, 0, 0));&#xa;&#xa;    }&#xa;});"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="mail">
+          <Properties>
+            <Property name="displayedMnemonic" type="int" value="77"/>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="4- E-mail : "/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="mail.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Update_Email_Clients UpdateEmailFrame = new Update_Email_Clients(lname, fname, username, email, id, password, welcomeMessage);&#xa;        UpdateEmailFrame.setLocationRelativeTo(null);&#xa;        UpdateEmailFrame.setVisible(true);&#xa;&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        mail.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;mail.setForeground(new java.awt.Color(255, 51, 51));&#xa;&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        mail.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;mail.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;});"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JButton" name="jButton2">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="13" style="0"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="33" green="33" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Retour"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jButton2ActionPerformed"/>
+          </Events>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jButton2.addMouseListener(new MouseAdapter() {&#xa;            @Override&#xa;            public void mouseEntered(MouseEvent e) {&#xa;                jButton2.setBackground(new java.awt.Color(255, 51, 51));&#xa;                jButton2.setForeground(new java.awt.Color(0, 0,0));&#xa;            }&#xa;&#xa;            @Override&#xa;            public void mouseExited(MouseEvent e) {&#xa;                jButton2.setBackground(new java.awt.Color(0, 0, 0));&#xa;                jButton2.setForeground(new java.awt.Color(255, 51, 51));&#xa;            }&#xa;        });"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="usr_name">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Liberation Sans" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="3- Nom d&apos;utilisateur : "/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="usr_name.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Update_Username_Clients UpdateUnameFrame = new Update_Username_Clients(lname, fname, username, email, id, password, welcomeMessage);&#xa;        UpdateUnameFrame.setLocationRelativeTo(null);&#xa;        UpdateUnameFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        usr_name.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;usr_name.setForeground(new java.awt.Color(255, 51, 51));&#xa;&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        usr_name.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;usr_name.setForeground(new java.awt.Color(0, 0, 0));&#xa;&#xa;&#xa;    }&#xa;});"/>
+            <AuxValue name="JavaCodeGenerator_VariableModifier" type="java.lang.Integer" value="10"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>

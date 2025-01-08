@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.5" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Liste des V&#xe9;hicules &#xe1; vendre"/>
+    <Property name="resizable" type="boolean" value="false"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jPanel3" min="-2" pref="876" max="-2" attributes="0"/>
+              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jPanel3" alignment="0" pref="557" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="jPanel3">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="33" green="33" red="ff" type="rgb"/>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+              </Group>
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="150" max="-2" attributes="0"/>
+                  <Component id="jLabel5" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel7" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                  <Component id="jLabel6" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="1" attributes="0">
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel6" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jLabel7" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+                  <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                  <Component id="jPanel1" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+          </Properties>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <EmptySpace min="-2" pref="376" max="-2" attributes="0"/>
+                              <Component id="jLabel11" min="-2" pref="76" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jLabel12" min="-2" pref="76" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <EmptySpace min="-2" pref="158" max="-2" attributes="0"/>
+                              <Component id="jScrollPane2" min="-2" pref="603" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace pref="402" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="32" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jLabel11" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                          <Component id="jLabel12" alignment="0" min="-2" pref="60" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="28" max="-2" attributes="0"/>
+                      <Component id="jScrollPane2" min="-2" pref="222" max="-2" attributes="0"/>
+                      <EmptySpace pref="610" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JLabel" name="jLabel11">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="33" green="33" red="ff" type="rgb"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon4 = new ImageIcon(getClass().getResource(&quot;/org/images/shopping-cart_sub.png&quot;));&#xa;ImageIcon hoverIcon4 = new ImageIcon(getClass().getResource(&quot;/org/images/shopping-cart(1)_sub.png&quot;));">
+                  <Image iconType="3" name="/org/images/shopping-cart_sub.png"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                    <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+                  </Border>
+                </Property>
+                <Property name="opaque" type="boolean" value="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel11.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;List_SellVehicles AllSellsVehiclesFrame = new List_SellVehicles(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        AllSellsVehiclesFrame.setLocationRelativeTo(null);&#xa;        AllSellsVehiclesFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel11.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel11.setBackground(new java.awt.Color(255, 51, 51));&#xa;jLabel11.setIcon(hoverIcon4);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel11.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel11.setBackground(new java.awt.Color(255, 51, 51));&#xa;jLabel11.setIcon(normalIcon4);&#xa;&#xa;    }&#xa;});"/>
+              </AuxValues>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel12">
+              <Properties>
+                <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                  <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                </Property>
+                <Property name="horizontalAlignment" type="int" value="0"/>
+                <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor" postCode="ImageIcon normalIcon5 = new ImageIcon(getClass().getResource(&quot;/org/images/signing_sub.png&quot;));&#xa;ImageIcon hoverIcon5 = new ImageIcon(getClass().getResource(&quot;/org/images/signing(1)_sub.png&quot;));">
+                  <Image iconType="3" name="/java_swing/Parking_Project/src/org/images/signing_sub.png"/>
+                </Property>
+                <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+                  <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+                    <MatteColorBorder bottom="3" left="3" right="3" top="3"/>
+                  </Border>
+                </Property>
+                <Property name="opaque" type="boolean" value="true"/>
+              </Properties>
+              <AuxValues>
+                <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel12.addMouseListener(new MouseAdapter() {&#xa;        &#xa;@Override&#xa;public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;List_LoanVehicles AllLoanVehiclesFrame = new List_LoanVehicles(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        AllLoanVehiclesFrame.setLocationRelativeTo(null);&#xa;        AllLoanVehiclesFrame.setVisible(true);&#xa;&#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel12.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel12.setBackground(new java.awt.Color(255, 51, 51));&#xa;jLabel12.setIcon(hoverIcon5);&#xa;&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel12.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel12.setBackground(new java.awt.Color(255, 255, 255));&#xa;jLabel12.setIcon(normalIcon5);&#xa;&#xa;    }&#xa;});"/>
+              </AuxValues>
+            </Component>
+            <Container class="javax.swing.JScrollPane" name="jScrollPane2">
+              <AuxValues>
+                <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+              </AuxValues>
+
+              <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+              <SubComponents>
+                <Component class="javax.swing.JTable" name="jTable2">
+                  <Properties>
+                    <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="0" green="0" red="0" type="rgb"/>
+                    </Property>
+                    <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+                      <Color blue="ff" green="ff" red="ff" type="rgb"/>
+                    </Property>
+                    <Property name="model" type="javax.swing.table.TableModel" editor="org.netbeans.modules.form.editors2.TableModelEditor">
+                      <Table columnCount="10" rowCount="0">
+                        <Column editable="false" title="#" type="java.lang.Integer"/>
+                        <Column editable="false" title="id" type="java.lang.Integer"/>
+                        <Column editable="false" title="Marque" type="java.lang.String"/>
+                        <Column editable="false" title="Mod&#xe8;le" type="java.lang.String"/>
+                        <Column editable="false" title="Plaque" type="java.lang.String"/>
+                        <Column editable="false" title="Ann&#xe8;e" type="java.lang.Integer"/>
+                        <Column editable="false" title="Image" type="java.lang.String"/>
+                        <Column editable="false" title="Prix" type="java.lang.Long"/>
+                        <Column editable="false" title="Prix (Louer)" type="java.lang.Long"/>
+                        <Column editable="false" title="Status" type="java.lang.Integer"/>
+                      </Table>
+                    </Property>
+                    <Property name="columnModel" type="javax.swing.table.TableColumnModel" editor="org.netbeans.modules.form.editors2.TableColumnModelEditor">
+                      <TableColumnModel selectionModel="0">
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                        <Column maxWidth="-1" minWidth="-1" prefWidth="-1" resizable="true">
+                          <Title/>
+                          <Editor/>
+                          <Renderer/>
+                        </Column>
+                      </TableColumnModel>
+                    </Property>
+                    <Property name="rowHeight" type="int" value="40"/>
+                    <Property name="tableHeader" type="javax.swing.table.JTableHeader" editor="org.netbeans.modules.form.editors2.JTableHeaderEditor">
+                      <TableHeader reorderingAllowed="true" resizingAllowed="true"/>
+                    </Property>
+                  </Properties>
+                </Component>
+              </SubComponents>
+            </Container>
+          </SubComponents>
+        </Container>
+        <Component class="javax.swing.JLabel" name="jLabel1">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+              <Image iconType="3" name="/org/images/clientlogo2.png"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="VehicleHub"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel1.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;        dispose();&#xa;Clients_Int ClientsFrame = new Clients_Int(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        ClientsFrame.setLocationRelativeTo(null);&#xa;        ClientsFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel1.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel1.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel1.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel1.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel2">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="0" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="V&#xe9;hicules"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel2.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Vehicles VehiclesFrame = new Vehicles(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        VehiclesFrame.setLocationRelativeTo(null);&#xa;        VehiclesFrame.setVisible(true);&#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel2.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel2.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel2.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel3">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Contact"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel3.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Contact ContactFrame = new Contact(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        ContactFrame.setLocationRelativeTo(null);&#xa;        ContactFrame.setVisible(true);&#xa;        &#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel3.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel3.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel3.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel3.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="&#xc0; propos"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel4.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;About AboutFrame = new About(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        AboutFrame.setLocationRelativeTo(null);&#xa;        AboutFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel4.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel4.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel4.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel4.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel5">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Home"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel5.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;        dispose();&#xa;Clients_Int ClientsFrame = new Clients_Int(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        ClientsFrame.setLocationRelativeTo(null);&#xa;        ClientsFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel5.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel5.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel5.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel5.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel6">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Log out"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel6.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;dispose();&#xa;Home homeFrame = new Home();&#xa;                    homeFrame.setVisible(true);&#xa;                    homeFrame.setLocationRelativeTo(null);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel6.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel6.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel6.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel6.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+        <Component class="javax.swing.JLabel" name="jLabel7">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="FreeSerif" size="18" style="1"/>
+            </Property>
+            <Property name="foreground" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="ff" green="ff" red="ff" type="rgb"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Transactions"/>
+          </Properties>
+          <AuxValues>
+            <AuxValue name="JavaCodeGenerator_InitCodePost" type="java.lang.String" value="jLabel7.addMouseListener(new MouseAdapter() {&#xa;    @Override&#xa;    public void mouseClicked(MouseEvent e) {&#xa;        dispose();&#xa;Transactions TransactionsFrame = new Transactions(welcomeMessage, clientId, LastName, FirstName, username, Email, Status);&#xa;        TransactionsFrame.setLocationRelativeTo(null);&#xa;        TransactionsFrame.setVisible(true);&#xa;        &#xa;    }&#xa;@Override&#xa;    public void mouseEntered(MouseEvent e) {&#xa;        jLabel7.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));&#xa;jLabel7.setForeground(new java.awt.Color(0, 0, 0));&#xa;    }&#xa;&#xa;    @Override&#xa;    public void mouseExited(MouseEvent e) {&#xa;        jLabel7.setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));&#xa;jLabel7.setForeground(new java.awt.Color(255, 255, 255));&#xa;    }&#xa;});"/>
+          </AuxValues>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
